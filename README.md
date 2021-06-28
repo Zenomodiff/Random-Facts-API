@@ -1,6 +1,6 @@
-#  Random Facts API 👋🧑👩
+#  Random Facts API 👽🧠👣🤘
 
-+ An API that will return Random Facts API 🕵️🕵️‍♀️👨‍🔬
++ An API that will return Random Facts API 🎃🧚‍♀️🧑‍💻
 + + Dedicated To All Facts Lovers ❤️
 
 ## Usage:
