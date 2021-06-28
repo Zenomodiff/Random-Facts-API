@@ -26,7 +26,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ```JSON
 [
   {
-    "Place_Name": "Jangoos"
+    "Random-Fact": "The inventor of the microwave appliance only received $2 for his discovery"
   }
 ]
 ```
@@ -35,10 +35,10 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ```JSON
 [
   {
-    "Place_Name": "Ahammed"
+    "Random-Fact": "South American river turtles talk in their eggs"
   }, 
   {
-    "Place_Name": "Joel"
+    "Random-Fact": "Humans have jumped further than horses in the Olympics"
   }
 ]
 ```
