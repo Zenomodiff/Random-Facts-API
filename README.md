@@ -22,7 +22,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 
 ## Example:
 
-+ `https://random-facts-api.herokuapp.com/api/Random-Facts?number=1` returns: ↓
++ [`https://random-facts-api.herokuapp.com/api/Random-Facts?number=1`](https://random-facts-api.herokuapp.com/api/Random-Facts?number=1) returns: ↓
 ```JSON
 [
   {
@@ -31,7 +31,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ]
 ```
 
-+ `https://random-facts-api.herokuapp.com/api/Random-Facts?number=2` returns: ↓
++ [`https://random-facts-api.herokuapp.com/api/Random-Facts?number=2`](https://random-facts-api.herokuapp.com/api/Random-Facts?number=2) returns: ↓
 ```JSON
 [
   {
