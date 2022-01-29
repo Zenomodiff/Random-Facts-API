@@ -5,8 +5,8 @@
 
 ## Usage:
 
-+ `https://random-facts-api.herokuapp.com` to get the documentation.
-+ `https://random-facts-api.herokuapp.com/api/Random-Facts/all` to get all the Random Facts at once.
++ `### [https://randomfactsapi.herokuapp.com/](https://randomfactsapi.herokuapp.com/)` to get the documentation.
++ `### [https://randomfactsapi.herokuapp.com/api/Random-Facts/all/](https://randomfactsapi.herokuapp.com/api/Random-Facts/all/)` to get all the Random Facts at once.
 + Change `all` to parameter `?number=` to specify the number of Random Facts you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the Random Facts you are targeting.
 
@@ -22,7 +22,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 
 ## Example:
 
-+ [`https://random-facts-api.herokuapp.com/api/Random-Facts?number=1`](https://random-facts-api.herokuapp.com/api/Random-Facts?number=1) returns: ↓
++ ### [`https://random-facts-api.herokuapp.com/api/Random-Facts?number=1`](https://randomfactsapi.herokuapp.com/api/Random-Facts?number=1) returns: ↓
 ```JSON
 [
   {
@@ -31,7 +31,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ]
 ```
 
-+ [`https://random-facts-api.herokuapp.com/api/Random-Facts?number=2`](https://random-facts-api.herokuapp.com/api/Random-Facts?number=2) returns: ↓
++ ### [`https://randomfactsapi.herokuapp.com/api/Random-Facts?number=2`](https://randomfactsapi.herokuapp.com/api/Random-Facts?number=2) returns: ↓
 ```JSON
 [
   {
